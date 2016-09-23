@@ -6,10 +6,10 @@ This proyect has been made Game Maker Studio: Profesional.
 
 # Windows requeriments
 
- · Windows XP, Vista, 7 or 8
- · 512MB RAM
- · Graphics card at least 128MB VRAM compatible with DirectX 9 or higher
- · 65 MB disk space
+ - Windows XP, Vista, 7 or 8
+ - 512MB RAM
+ - Graphics card at least 128MB VRAM compatible with DirectX 9 or higher
+ - 65 MB disk space
  
 # Open source code on Game Maker Studio
 
